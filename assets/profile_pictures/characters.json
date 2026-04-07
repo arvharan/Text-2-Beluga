@@ -25,11 +25,13 @@
     },
     "beluga": {
         "name": "Beluga",
-        "image": "assets/profile_pictures/temp/cat.png"
+        "image": "assets/profile_pictures/temp/cat.png",
+        "role_color": "#ffffff"
     },
   "hecker": {
     "name": "Hecker",
-    "image": "assets/profile_pictures/temp/hecker.png"
+    "image": "assets/profile_pictures/temp/hecker.png",
+    "role_color": "#ffffff"
   }
 }
 
