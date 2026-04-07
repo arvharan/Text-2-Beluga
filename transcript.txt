@@ -1,0 +1,11 @@
+WELCOME beluga$^1.5#!ping
+WELCOME hecker$^1.5#!ping
+beluga: hey hecker$^2#!ping
+hecker: what do you want?$^2#!ping
+beluga: i am a master hacker now$^2.5#!ping
+hecker: lol proof?$^2#!ping
+beluga: look at this$^1.5#!ping
+beluga: <IMAGE: hacker_cat.png>$^3#!ping
+hecker: thats just a google image$^2.5#!ping
+beluga: NO ITS NOT$^1#!ping
+
