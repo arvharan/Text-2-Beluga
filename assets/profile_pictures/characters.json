@@ -22,18 +22,17 @@
     "Cheddar": {
         "profile_pic": "perm/cheddar.png",
         "role_color": "#ff7878"
-    }
-}
-
-
-{
-  "beluga": {
-    "name": "Beluga",
-    "image": "assets/profile_pictures/temp/cat.png"
-  },
+    },
+    "beluga": {
+        "name": "Beluga",
+        "image": "assets/profile_pictures/temp/cat.png"
+    },
   "hecker": {
     "name": "Hecker",
     "image": "assets/profile_pictures/temp/hecker.png"
   }
 }
 
+
+
+  
